@@ -1,2 +1,7 @@
-# Лаунчер для игры
-Лаунчер для игры на wpf с возможностью просмотра статистики(создание файла сохранения на компютера и его изменение) и изменением игровых настроек.
+# Launcher for the game
+A launcher on wpf for the game with the ability to view statistics (create a save file on a computer and change it) and change game settings.
+
+game from: [m0vls/2d-topdown-game](https://github.com/m0vls/2d-topdown-game)
+
+## How to use
+Just install the launcher and run it (the launcher already contains the game)
