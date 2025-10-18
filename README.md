@@ -4,4 +4,4 @@ A launcher on wpf for the game with the ability to view statistics (create a sav
 game from: [m0vls/2d-topdown-game](https://github.com/m0vls/2d-topdown-game)
 
 ## How to use
-Just install the launcher and run it (the launcher already contains the game)
+clone repository to VS2022 and run it(the launcher already contains the game)
